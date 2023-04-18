@@ -19,20 +19,16 @@
 
 ## Mockup
 
-![mockup](/farmersmarket.png)
+![mockup](/market.png)
 
 ## Component Diagram
 ```
 App.js
 ├── Header.js
-├── User.js
-│   ├── Bio.js           
-├── Feed.js
-│   ├── Posts.js       
-│   │   ├── FriendStatus.js
-├── Friends.js
-│   ├── FriendsInfo.js     
-│   │   ├── NewFriend.js
+├── ProduceControl.js
+│   ├── ProductList.js           
+├── LocationControl.js
+│   ├── LocationList.js       
 ```
 
 # Getting Started with Create React App
@@ -60,7 +56,7 @@ git clone https://github.com/bbakshev/Farmers-Market
 
 **MIT License**
 
-Copyright (c) 2022 John Lenz, Brishna Bakshev, Sarah Andyshak, E Luckie, Erin Timlin and Molly Donegan
+Copyright (c) 2023 John Lenz, Brishna Bakshev, Sarah Andyshak, E Luckie, Erin Timlin and Molly Donegan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
