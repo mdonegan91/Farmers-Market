@@ -26,7 +26,7 @@
 App.js
 ├── Header.js
 ├── ProduceControl.js
-│   ├── ProductList.js           
+│   ├── ProduceList.js           
 ├── LocationControl.js
 │   ├── LocationList.js       
 ```
